@@ -17,8 +17,7 @@ This folder is orgarnized as follows.
 
 ```
 proj/
-├── lib/
-├── data/
+├── notebook/
 ├── doc/
 ├── fig/
 └── output/
