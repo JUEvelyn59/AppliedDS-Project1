@@ -11,16 +11,12 @@ Term: Fall 2024
 + Projec title: Find the frog's source of regenerative power
 + This project is conducted by Jiahui Zhu
 
-+ Project summary: [a short summary] 
-
 This folder is orgarnized as follows.
 
 ```
 proj/
 ├── notebook/
-├── doc/
+├── doc/report
 ├── fig/
-└── output/
+└── output/roc_markers_ttest_leiden
 ```
-
-Please see each subfolder for a README file.
